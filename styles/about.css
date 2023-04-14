@@ -1,12 +1,12 @@
 .title__style {
     color: var(--white);
-    font-family: 'Krona One';
+    font-family: 'Krona One', sans-serif;
     font-size: 1.4em;
     line-height: 30px;
 }
 
 .sobremim_text__style {
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     color: var(--white);
     font-weight: 400;
     font-size: 16px;
